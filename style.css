@@ -27,9 +27,9 @@ div h2{
     width: 800px;
     height: 500px;
 }
-ol .missions{
+.missions b{
     font-size: 20px;
 }
-ul .locations{
+.Locations b{
     font-size: 20px;
 }
