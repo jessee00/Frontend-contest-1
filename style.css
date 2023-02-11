@@ -20,6 +20,9 @@ a button{
     margin-left: 5px;
     font-size: 15px;
 }
+div h2{
+    font-size: 30px;
+}
 .gta-logo{
     width: 800px;
     height: 500px;
