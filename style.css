@@ -14,22 +14,31 @@ nav span{
 div{
     margin-left: 15px;
 }
+div p{
+    font-size: 18px;
+}
 a button{
     color: white;
     background-color: black;
     margin-left: 5px;
-    font-size: 15px;
+    font-size: 18px;
 }
 div h2{
     font-size: 30px;
 }
 .gta-logo{
-    width: 800px;
-    height: 500px;
+    width: 400px;
+    height: 250px;
 }
 .missions b{
+    font-size: 25px;
+}
+.missions ol{
     font-size: 20px;
 }
 .Locations b{
+    font-size: 25px;
+}
+.Locations ul{
     font-size: 20px;
 }
